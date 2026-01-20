@@ -67,9 +67,10 @@ I’ve worked across **architecture, development, integration, and iteration**.
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/muhammad-hussnain-4a2948187/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/muhammad-hussnain-4a2948187/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+
  
 </p>
 
